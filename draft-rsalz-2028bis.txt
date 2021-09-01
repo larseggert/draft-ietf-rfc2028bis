@@ -2,14 +2,14 @@
 
 
 
-ntp                                                              R. Salz
+???                                                              R. Salz
 Internet-Draft                                       Akamai Technologies
-Updates: 2028, 3668, 3979, 8717 (if approved)           1 September 2021
+Obsoletes: 2028 (if approved)                           1 September 2021
 Intended status: Best Current Practice                                  
 Expires: 5 March 2022
 
 
-         The Entitities Involved in the IETF Standards Process
+           Entitities Involved in the IETF Standards Process
                        draft-rsalz-2028bis-latest
 
 Abstract
@@ -24,7 +24,7 @@ Discussion Venues
    This note is to be removed before publishing as an RFC.
 
    Discussion of this document takes place on the mailing list (), which
-   is archived at .
+   is archived at /dev/null.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/richsalz/draft-ietf-rfc2028bis.
