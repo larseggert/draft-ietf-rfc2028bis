@@ -78,12 +78,12 @@ Table of Contents
      4.6.  IETF Secretariat
      4.7.  Internet Research Task Force (IRTF)
      4.8.  The IETF Trust
-   5.  IETF Administration LLC (IETF LLC)
-     5.1.  Internet Society (ISOC)
-   6.  Security Considerations
-   7.  IANA Considerations
-   8.  Acknowledgements
-   9.  Normative References
+     4.9.  IETF Administration LLC (IETF LLC)
+     4.10. Internet Society (ISOC)
+   5.  Security Considerations
+   6.  IANA Considerations
+   7.  Acknowledgements
+   8.  Normative References
    Author's Address
 
 1.  The IETF Standards Process
@@ -304,7 +304,7 @@ Table of Contents
    The trustees that govern the Trust are selected from the IETF
    community as described in [RFC8715].
 
-5.  IETF Administration LLC (IETF LLC)
+4.9.  IETF Administration LLC (IETF LLC)
 
    The IETF Administration Limited Liability Corporation provides the
    corporate legal home for the IETF, the IAB, and the IRTF.  (The IETF
@@ -325,7 +325,7 @@ Table of Contents
    [RFC8712], Section 6 describes the legal relationship between the LLC
    and ISOC.
 
-5.1.  Internet Society (ISOC)
+4.10.  Internet Society (ISOC)
 
    ISOC plays a small role in the standards process.  It appoints the
    nominations committee chair, confirms IAB candidates, and acts as the
@@ -335,22 +335,22 @@ Table of Contents
    selected, and other matters concerning the operation of the Internet
    Society, are described in the ISOC By Laws [ISOC].
 
-6.  Security Considerations
+5.  Security Considerations
 
    This document introduces no new security considerations.
 
-7.  IANA Considerations
+6.  IANA Considerations
 
    This document has no IANA actions.
 
-8.  Acknowledgements
+7.  Acknowledgements
 
    The authors of this document would like to thank the IETF
    participants at the time [RFC2028] was written; in particular, those
    involved with what was called the POISED effort and the authors of
    that document, Richard Hovey and Scott Bradner.
 
-9.  Normative References
+8.  Normative References
 
    [IAB]      Internet Architecture Board and B. Carpenter, Ed.,
               "Charter of the Internet Architecture Board (IAB)",
