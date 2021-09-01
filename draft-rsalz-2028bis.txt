@@ -77,6 +77,7 @@ Table of Contents
      3.6.  Internet Architecture Board
      3.7.  Internet Assigned Numbers Authority
      3.8.  Internet Research Task Force
+     3.9.  The IETF Trust
    4.  Security Considerations
    5.  IANA Considerations
    6.  Acknowledgements
@@ -316,6 +317,17 @@ Table of Contents
    An IETF working group may ask an IRTF research group for advice or
    other input.
 
+3.9.  The IETF Trust
+
+   The IETF Trust holds the copyrights for IETF documents including
+   RFCs, and copyright licenses for IETF contribtions including Internet
+   Drafts.  The principles for the copyright licenses are described in
+   [RFC8721] and [RFC5377], and the licenses themselves are in the Trust
+   Legal Provisions on the Trust's web site.
+
+   The trustees that govern the Trust are selected from the IETF
+   community as described in [RFC8715].
+
 4.  Security Considerations
 
    Security is not addressed in this memo.
@@ -369,6 +381,21 @@ Table of Contents
               the IETF Standards Process", BCP 11, RFC 2028,
               DOI 10.17487/RFC2028, October 1996,
               <https://datatracker.ietf.org/doc/html/rfc2028>.
+
+   [RFC5377]  Halpern, J., Ed., "Advice to the Trustees of the IETF
+              Trust on Rights to Be Granted in IETF Documents",
+              RFC 5377, DOI 10.17487/RFC5377, November 2008,
+              <https://datatracker.ietf.org/doc/html/rfc5377>.
+
+   [RFC8715]  Arkko, J., "IETF Administrative Support Activity 2.0:
+              Update to the Process for Selection of Trustees for the
+              IETF Trust", RFC 8715, DOI 10.17487/RFC8715, February
+              2020, <https://datatracker.ietf.org/doc/html/rfc8715>.
+
+   [RFC8721]  Halpern, J., Ed., "Advice to the Trustees of the IETF
+              Trust on Rights to Be Granted in IETF Documents",
+              RFC 8721, DOI 10.17487/RFC8721, February 2020,
+              <https://datatracker.ietf.org/doc/html/rfc8721>.
 
    [WGPROCS]  Bradner, S., "IETF Working Group Guidelines and
               Procedures", BCP 25, RFC 2418, DOI 10.17487/RFC2418,
