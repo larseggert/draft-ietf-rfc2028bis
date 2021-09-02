@@ -1,0 +1,91 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-09-02T00:31:00.730928+00:00",
+  "repo": "richsalz/draft-ietf-rfc2028bis",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "MDExOlB1bGxSZXF1ZXN0NzI0NzIwOTMw",
+      "title": "Add IETF Trust to draft-rsalz-2028bis.md",
+      "url": "https://github.com/richsalz/draft-ietf-rfc2028bis/pull/1",
+      "state": "MERGED",
+      "author": "jrlevine",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Include the IETF Trust",
+      "createdAt": "2021-09-01T17:44:31Z",
+      "updatedAt": "2021-09-01T18:05:36Z",
+      "baseRepository": "richsalz/draft-ietf-rfc2028bis",
+      "baseRefName": "main",
+      "baseRefOid": "28cc40534b28f098d209cdf59a9e9dafe6244287",
+      "headRepository": "jrlevine/draft-ietf-rfc2028bis",
+      "headRefName": "patch-1",
+      "headRefOid": "8f02b84df697aecd2a7360dba9eae04dd7f9c939",
+      "closedAt": "2021-09-01T18:03:33Z",
+      "mergedAt": "2021-09-01T18:03:33Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "641df8ac184ad450c06b7ab19c122b8b7ee7f179"
+      },
+      "comments": [
+        {
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "body": "I'll take it, and add the missing RFC normative references, thanks.  Pushed.",
+          "createdAt": "2021-09-01T18:05:36Z",
+          "updatedAt": "2021-09-01T18:05:36Z"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
